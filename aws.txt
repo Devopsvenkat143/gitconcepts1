@@ -1,1 +1,2 @@
 aws is cloud service create github account createfile
+aws services like ec2 cloudwatch s3bucket
